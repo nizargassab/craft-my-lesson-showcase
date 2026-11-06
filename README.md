@@ -1,5 +1,3 @@
-![Craft My Lesson](assets/cover.svg)
-
 # Craft My Lesson
 
 A SaaS platform that helps teachers turn their own images into personalized classroom activities and print-ready PDFs. The creation flow brings together activity selection, image uploads, editable options, previews and downloads.
